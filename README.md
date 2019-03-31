@@ -4,7 +4,7 @@ This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Fire
 
 [![Firestore CRUD AngularFire2 Tutorial](https://img.youtube.com/vi/bA67tjZWP94/0.jpg)](https://youtu.be/bA67tjZWP94)
 
-A simple example of how to get perform create, read, update, and delete operations against a Firestore (Firebase) database.
+A simple example of how to perform create, read, update, and delete operations against a Firestore (Firebase) database.
 
 If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
 
